@@ -8,7 +8,7 @@ Almost everything uses the [Rosé Pine](https://github.com/rose-pine) colorschem
 
 The firefox css file is just to make it a simple one liner.
 
-![](assets/firefox-newtab.png)
+![](assets/firefox.png)
 
 Wezterm uses the Rosé Pine colorscheme with a gradient in the background.
 
