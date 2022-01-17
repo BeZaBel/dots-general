@@ -1,0 +1,61 @@
+/* Title bar */
+.titlebar-buttonbox {
+    display: none !important;
+}
+
+.titlebar-spacer {
+    display: none !important;
+}
+
+/* Tab bar */
+#navigator-toolbox {
+    border: 0px !important;
+}
+
+#TabsToolbar {
+    margin-left: 30vw !important;
+}
+
+/* Nav bar */
+#nav-bar {
+    background: transparent !important;
+    margin-top: -40px !important;
+    margin-right: 70vw !important;
+}
+
+/* URL bar 
+#back-button {
+    display: none !important;
+}
+
+#forward-button {
+    display: none !important;
+}
+*/
+
+#tracking-protection-icon-container {
+    display: none !important;
+}
+
+#urlbar-container {
+    min-width: 200px !important;
+}
+
+#urlbar {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+#page-action-buttons {
+    display: none !important;
+}
+
+#PanelUI-button {
+    display: none !important;
+}
+
+#identity-box[pageproxystate="valid"].extensionPage {
+  display: none !important;
+}
+
