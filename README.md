@@ -10,5 +10,5 @@ The firefox css file is just to make it a simple one liner.
 
 Wezterm uses the Rosé Pine colorscheme with a gradient in the background.
 
-[](assets/wezterm.png)
+![](assets/wezterm.png)
 
